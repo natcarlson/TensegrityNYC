@@ -1,0 +1,27 @@
+{
+  "name": "tensegritynyc",
+  "version": "1.0.0",
+  "description": "Tensegrity NYC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tensegrity",
+    "NYC"
+  ],
+  "author": "Nat Carlson",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "^1.4.1",
+    "crypto": "0.0.3",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "kerberos": "0.0.19",
+    "mongoose": "^4.4.11",
+    "morgan": "^1.7.0"
+  }
+}
